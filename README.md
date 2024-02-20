@@ -1,4 +1,6 @@
-# e4040-2019Fall-Project
+# Image Caption Generation using CNN and RNN
+
+e4040-2019Fall-Project
 
 * Some very important notes for running the codes:
     1. The accuracy and loss plots are inside the code file and have not been mentioned in the report since we have three models. Kindly refer to the captioning_main.ipynb file to see the accuracy and loss plots.   
